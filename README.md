@@ -40,5 +40,4 @@ telkom-internship-qa-testing/
 | **Testing Type** | Manual Testing & API Testing |
 
 ## Author
-Rehan Zubaidari
-rehanzubaidari@gmail.com
+Rehan Zubaidari — Information Systems, Universitas Malikussaleh rehanzubaidari@gmail.com
