@@ -2,7 +2,7 @@
 QA Testing documentation from internship at **Telkom Indonesia** — PADI UMKM e-commerce platform
 
 ## Description
-This repository contains documentation and test cases created during an internship program as a **QA Engineer** at Telkom Indonesia, focusing on quality assurance for the **PADI UMKM** platform — an e-commerce platform dedicated to small and medium enterprises (SMEs) in Indonesia.
+This repository contains documentation for the 130 test cases created during an internship program as a QA Engineer at Telkom Indonesia, focusing on quality assurance for PADI UMKM platform — an e-commerce platform dedicated to small and medium enterprises (SMEs) in Indonesia.
 
 ## Repository Structure
 ```
